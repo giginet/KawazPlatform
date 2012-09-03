@@ -1,0 +1,19 @@
+# 1 # 2            ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+# c #                                                                                     !G
+# c #             ###         h         #***         h         #***        h        ***    ****
+# c #            
+# c #
+# c #           v
+# c #        
+# c #         v
+# c #
+# c #       v
+# c #                      c
+# c      v                 c   ccccc   ccccc                G
+# c                      c v   #####   *****              ***** 
+# c         #            c                           
+# c ####   ##          c v                         
+# c #                  c                       v   v   v
+  c                  c v
+  cccccccccccccccccccc
+#############******* v   *******##############           #######

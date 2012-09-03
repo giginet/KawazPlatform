@@ -1,0 +1,25 @@
+
+     0                      1                     2                      3
+
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+     c                      c                     c                      c
+
+
+ cccc1cccc              cccc2cccc             cccc3cccc              cccc4cccc
+###########            ###########           ###########            ###########
+
+
+
+
+
+
+
+        cccccccccccccccccccccccccccccccccccccccccc   !   cccccccccccccc  5           
+    ##########################################################################
